@@ -1,0 +1,156 @@
+/* Jake's CSS style page */
+
+/* positioning */
+/* box-model */
+/* text */
+/* visual */
+
+/* ::backdrop */
+
+
+
+.container {
+    /* positioning */
+    position: relative;
+    /* box-model */
+    border: 2px rgb(51, 165, 117) ;
+    margin: 10px 10px 10px 10px;
+    /* text */
+    /* visual */
+   
+} 
+
+h1 {
+    /* text */
+    text-align: center;
+    color: rgb(51, 165, 117);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h5 {
+    /* text */
+    text-align: center;
+    color: rgb(51, 165, 117);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.main-body-container {
+    /* positioning */
+    height: 800px;
+    width: 1400px;
+    /* box-model */
+    margin: 10px 10px 10px 10px;
+    /* border: 2px solid rgb(51, 165, 117); */
+    /* text */
+    /* visual */
+}
+
+.left-container {
+    /* positioning */
+    height: 750px;
+    /* box-model */
+    border: 2px solid rgb(51, 165, 117);
+
+    /* text */
+    font-size: larger;
+    /* visual */
+    background-color: rgb(235, 239, 240);
+
+}
+
+.left-img {
+    /* positioning */
+    width: 500px;
+    /* box-model */
+    /* text */
+    /* visual */
+    float: left;
+}
+
+.left-img-comp {
+    /* positioning */
+    width: 650px
+    
+    /* box-model */
+    /* text */
+    /* visual */
+  
+}
+
+.right-container {
+    /* positioning */
+    height: 750px;
+    /* box-model */
+    border: 2px rgb(51, 165, 117) solid;
+    /* text */
+    text-align: center;
+    /* visual */
+    background-color: rgb(235, 239, 240);
+}
+
+.viz-card {
+    /* positioning */
+    
+    /* box-model */
+    margin: 10px 30px 20px 30px;
+    width: 200px;
+    /* margin: 0 auto; */
+    /* text */
+    text-align: center;
+    /* visual */
+
+}
+
+.viz-card:hover {
+    /* visualization */
+    opacity: 0.75;
+}
+
+.viz-image {
+    /* positioning */
+    width: 190px;
+    /* box-model */
+    /* text *
+    /* visual */
+}
+
+.grid-container {
+    /* positioning */
+    
+    /* box-model */
+    margin: 0 auto;
+    /* text */
+    /* visual */
+}
+
+.navbar {
+    border: 2px solid rgb(51, 165, 117);
+}
+
+.navbar-brand {
+    /* positioning */
+    width: 120px;
+    height: 40px;
+    /* box-model */
+    margin: 10px 800px 10px 10px;
+    /* text */
+    text-align: center;
+    
+    /* visual */
+    background-color: rgb(51, 165, 117);
+}
+
+#navbar-span {
+    /* text */
+    color: white;
+    font-weight: bold;
+}
+
+footer {
+    /* text */
+    text-align: center;
+    border: 2px solid rgb(51, 165, 117);
+    background-color: rgb(235, 239, 240);
+}
