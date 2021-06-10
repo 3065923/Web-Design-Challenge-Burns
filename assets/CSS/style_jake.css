@@ -209,9 +209,14 @@ h6 {
 
 }
 
+body{
+    background-color: rgb(204, 204, 204);
+}
 
-
-
+.data-title {
+    background-color: rgb(235, 239, 240);
+    border:solid 2px rgb(51, 165, 117);
+}
 
 /* 
 
